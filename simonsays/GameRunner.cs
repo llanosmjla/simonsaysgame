@@ -13,6 +13,7 @@ namespace simonsays
         {
             Game game = new Game();
             game.run();
+
         }
     }
 }
